@@ -1,0 +1,23 @@
+.image-container {
+  list-style: none;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.select-img {
+  height: 110px;
+}
+.select-image-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+@media (max-width: 567px) {
+  .select-img {
+    height: 75px;
+  }
+  .image-container {
+    margin-bottom: 5px;
+  }
+}

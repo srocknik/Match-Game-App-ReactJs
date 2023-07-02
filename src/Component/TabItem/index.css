@@ -1,0 +1,18 @@
+.tab-item-container {
+  list-style: none;
+}
+
+.tab-btn {
+  padding: 20px;
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+.unique-Btn {
+  color: #fec653;
+  border-bottom: #fec653 1px solid;
+}
